@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147276690537",
+    "project_id": "imagetotext-447a4",
+    "storage_bucket": "imagetotext-447a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147276690537:android:a2a83e0fd539d6d9ee9ef8",
+        "android_client_info": {
+          "package_name": "quido.imageconvertr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147276690537-i16q0k2ege1892tk17orbcogtvla68m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByVXq02yfuI-kwnsB2KX23c58yb7lEQaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147276690537-i16q0k2ege1892tk17orbcogtvla68m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
